@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### [Design For Others](https://medium.com/@mariana0pachon/design-for-others-the-worcester-public-library-for-nonprofit-groups-4341abbbba4c)
 ![Image](https://cdn-images-1.medium.com/max/1200/1*yKMzXpYnRiKf1n7XSHVisQ.png)
+
 In this project my group and I redesigned pages on the Worcester Public Library's website to cater towards nonprofit groups.
 
 ### Markdown
