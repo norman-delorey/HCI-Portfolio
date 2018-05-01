@@ -9,6 +9,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 In this project my group and I redesigned pages on the Worcester Public Library's website to cater towards nonprofit groups.
 
+### [Design For Understanding](https://medium.com/@hayley.boigenzahn/design-for-understanding-17e78406b29b)
+![Image](https://cdn-images-1.medium.com/max/1000/1*kxQBt-wrjx7ZlfBcpqC3Wg.jpeg)
+
+In this project my group and I worked to display polio statistics in the United States over time.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
