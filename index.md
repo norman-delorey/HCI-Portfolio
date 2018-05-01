@@ -25,6 +25,7 @@ In this project we made a chatbot to try and work through a user's problems with
 In this project my group and I made a website to read a user's emotions and reccomend a playlist to match it.
 
 ### [Design For Another World](https://medium.com/@robertharrison43/design-for-another-world-603bed415e64)
-![Image](https://cdn-images-1.medium.com/max/800/1*Os3Yrl_aMiQFetUl29D85Q.jpeg]
+![Image](https://cdn-images-1.medium.com/max/800/1*Os3Yrl_aMiQFetUl29D85Q.jpeg)
+
 In this project my group and I made a virtual reality "obstacle course" where you are stuck in a water bottle.
 
