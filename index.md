@@ -14,6 +14,11 @@ In this project my group and I redesigned pages on the Worcester Public Library'
 
 In this project my group and I worked to display polio statistics in the United States over time.
 
+### [Design For Tension](https://medium.com/@mcollins_68725/design-for-tension-a77e408277af)
+![Image](https://cdn-images-1.medium.com/max/800/1*k_OdLU53QtcyyED-3NQphw.png)
+
+In this project we made a chatbot to try and work through a user's problems with groupwork.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
