@@ -1,8 +1,4 @@
-## Welcome to my Human Computer Interaction Portfolio
-Hello! My name is Norman Delorey, and I am a member of the WPI class of 2020 studying computer science. Over the course of this term,
-I have worked on six different projects in small groups. These projects tackle different aspects of human computer interaction and the
-user experience, and I am happy with all that I have learned this term. You can learn more about the design process that I have 
-learned [here](https://medium.com/@ndelorey11/my-design-manifesto-8f5a52d3e879).
+
 
 ### [Design For Others](https://medium.com/@mariana0pachon/design-for-others-the-worcester-public-library-for-nonprofit-groups-4341abbbba4c)
 ![Image](https://cdn-images-1.medium.com/max/1200/1*yKMzXpYnRiKf1n7XSHVisQ.png)
