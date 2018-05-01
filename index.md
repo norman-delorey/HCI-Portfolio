@@ -19,6 +19,9 @@ In this project my group and I worked to display polio statistics in the United 
 
 In this project we made a chatbot to try and work through a user's problems with groupwork.
 
+### [Design For Wellbeing](https://medium.com/@pawandodani/design-for-wellbeing-163aeea0f2ff)
+![Video](https://www.youtube.com/watch?time_continue=1&v=PBl53FkyqAw)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
