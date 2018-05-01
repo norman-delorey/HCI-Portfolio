@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/norman-delorey/HCI-Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to my Human Computer Interaction Portfolio
+Hello! My name is Norman Delorey, and I am a member of the WPI class of 2020 studying computer science. Over the course of this term,
+I have worked on six different projects in small groups. These projects tackle different aspects of human computer interaction and the
+user experience, and I am happy with all that I have learned this term.
 
 ### [Design For Others](https://medium.com/@mariana0pachon/design-for-others-the-worcester-public-library-for-nonprofit-groups-4341abbbba4c)
 ![Image](https://cdn-images-1.medium.com/max/1200/1*yKMzXpYnRiKf1n7XSHVisQ.png)
@@ -20,36 +19,11 @@ In this project my group and I worked to display polio statistics in the United 
 In this project we made a chatbot to try and work through a user's problems with groupwork.
 
 ### [Design For Wellbeing](https://medium.com/@pawandodani/design-for-wellbeing-163aeea0f2ff)
-![Video](https://www.youtube.com/watch?time_continue=1&v=PBl53FkyqAw)
+![Image](https://cdn-images-1.medium.com/max/600/1*bprbC9VbncIYkNSYAPwFMA.jpeg)
 
-### Markdown
+In this project my group and I made a website to read a user's emotions and reccomend a playlist to match it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Design For Another World](https://medium.com/@robertharrison43/design-for-another-world-603bed415e64)
+![Image](https://cdn-images-1.medium.com/max/800/0*pkGMjdGGXh3ti-v-.)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/norman-delorey/HCI-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In this project my group and I made a virtual reality "obstacle course" where you are stuck in a water bottle.
